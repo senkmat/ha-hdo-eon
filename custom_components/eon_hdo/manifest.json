@@ -1,9 +1,9 @@
 {
-  "domain": "eon_hdo",
+  "domain": "hdo_eon",
   "name": "E.ON HDO a Ceny",
   "documentation": "https://github.com/senkmat/ha-hdo-eon",
   "dependencies": [],
   "codeowners": ["@senkmat"],
-  "version": "1.0.0",
+  "version": "0.1.0",
   "iot_class": "cloud_polling"
 }
